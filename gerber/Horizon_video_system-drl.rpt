@@ -1,0 +1,25 @@
+Drill report for Horizon_video_system.kicad_pcb
+Created on 2026-11-23T14:04:39
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'Horizon_video_system-PTH-drl.gbr' contains
+    plated through holes:
+    =============================================================
+    T1  0.200mm  0.0079"  (12 holes))
+    T2  0.800mm  0.0315"  (23 holes))
+    T3  1.000mm  0.0394"  (66 holes))
+
+    Total plated holes count 101
+
+
+Drill file 'Horizon_video_system-NPTH-drl.gbr' contains
+    unplated through holes:
+    =============================================================
+    T1  2.750mm  0.1083"  (4 holes))
+
+    Total unplated holes count 4
